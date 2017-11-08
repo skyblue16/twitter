@@ -1,0 +1,68 @@
+body{
+    margin: 0 auto;
+    background: #32ADD6;
+   
+}
+.tweet{
+    background: rgb(131, 245, 245);
+    border: 1px solid rgb(71, 20, 255);
+    word-break: break-all;
+    width: 30%;
+    position: relative;
+    bottom: 140px;
+    left: 40px;
+    margin-bottom: 20px;
+}
+textarea{
+    width: 30%;
+    height: 150px;
+    word-break: break-all;
+    position: relative;
+    left: 60%;
+    word-break: break-all;
+    border: none;
+    border-bottom: 1px solid white;
+    resize: none;
+
+}
+
+h1{
+    text-align: center;
+    background: rgb(83, 202, 241);
+    color: white;
+    padding: 25px;
+    margin: 0;   
+}
+#pregunta{
+    text-align: right;
+    /* padding-left: 20px; */
+    padding-right: 20%;
+    color: #32ADD6;
+}
+.limit{
+    position: relative;
+    left: 60%;
+    top: 20px;
+    width: 50px;
+    
+
+}
+.twet{
+    position: relative;
+    left: 200px;
+    top: 50px;
+    color: white;
+    font-size: 25px;
+}
+
+#pensar{
+    background: white;
+    position: relative;
+    right: 300px;
+    top: 60px;
+}
+.enviar{
+    position: relative;
+    left: 55.5%;
+    top: 75px;
+}
